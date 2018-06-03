@@ -1,0 +1,9 @@
+{
+  "images": [
+    {"img": "http://news.mit.edu/sites/mit.edu.newsoffice/files/images/2016/mit-entrepreneurship-bootcamp-2016_0.jpg", "alt": "MIT", "text": "MIT Entrepreneurship Bootcamp", "link":"", "about":""},
+    {"img": "https://cdn.techjuice.pk/wp-content/uploads/2018/03/GSoC.png", "alt": "",  "text": "GSoC Alumni & Mentor","link":"", "about":""},
+    {"img": "https://www.dtelepathy.com/blog/wp-content/uploads/2014/06/Betterment_EducationSites.jpg", "alt": "Developed a library for Angular Elements", "text": "UI Engineer & Mentor, CodingBlocks","link":"", "about":""},
+    {"img": "https://pbs.twimg.com/media/DQDEnmVVQAUAITF.jpg", "alt": "",  "text": "Speaker and Blogger","link":"", "about":""},
+    {"img": "https://cdn-images-1.medium.com/max/2000/1*FGnf6_DJlIAfx2li5OgV3w.jpeg", "alt": "", "text": "Open Source Member, FOSSASIA","link":"", "about":""}
+  ]
+}
